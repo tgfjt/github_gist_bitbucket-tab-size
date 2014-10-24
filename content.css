@@ -1,5 +1,15 @@
+#issue_body,
+#pull_request_body,
 .tab-size-2,
 .tab-size-4,
 .tab-size-8 {
+	tab-size: 4 !important;
+}
+
+.gist-content .line-pre {
+	tab-size: 4 !important;
+}
+
+#source-container .file-source {
 	tab-size: 4 !important;
 }
