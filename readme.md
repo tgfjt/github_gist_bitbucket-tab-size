@@ -6,6 +6,8 @@ It's intentionally simple and I'm not interested in adding anything more to it.
 
 ![](screenshot.png)
 
+FYI:
+https://github.com/isaacs/github/issues/170
 
 ## Install
 
